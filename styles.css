@@ -1,0 +1,21 @@
+
+body{
+    background-color: white;  
+    font-family: sans-serif;
+}
+h1{
+    font-size: 30px;
+    margin-top: 0;
+    margin-left: 40%;
+    color:chocolate;
+}
+h4{
+    font-size: 15px;
+    margin-left: 46%;
+    color: chocolate;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 49%;
+}
